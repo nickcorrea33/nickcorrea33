@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nickcorrea33
+- 👋 Hi, I’m nick correa
 - 👀 I’m interested in coding and product design
 - 🌱 I’m currently learning software engineering @uci
 - 💞️ I’m looking to collaborate on any projects at the moment. I want to broaden my horizons.
